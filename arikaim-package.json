@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "name": "color-picker",
+    "title": "Color Picker",
+    "package-type": "library",
+    "repository": "https://github.com/arikaim/color-picker-library.git",
+    "help": "https://seballot.github.io/spectrum/",
+    "description": "Color picker JavaScript library",
+    "files": [
+        "spectrum.min.js",
+        "spectrum.min.css"
+    ],
+    "versions": {
+        "spectrum-cdn": {
+            "files": [   
+                "https://cdn.jsdelivr.net/npm/spectrum-colorpicker2/dist/spectrum.min.js",
+                "https://cdn.jsdelivr.net/npm/spectrum-colorpicker2/dist/spectrum.min.css"             
+            ] 
+        }     
+    }
+}
